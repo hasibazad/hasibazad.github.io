@@ -1,3 +1,3 @@
 # hasibazad.github.io
 
-## My New githubpage
+## My New GitHub page
